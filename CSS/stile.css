@@ -198,3 +198,15 @@ footer p {
      padding-right: 3%;
   }
 }
+@media (max-width:750px) {
+  p{
+    font-size: 20px;
+    padding-right: 3%;
+ }
+}
+@media (max-width:500px) {
+     header ul li a, .dropbtn{
+      font-size: 15px;
+      padding: 12px 14px;
+     }
+}
