@@ -210,3 +210,9 @@ footer p {
    padding: 10px 12px;
   }
 }
+@media (max-width:345px) {
+  header ul li a, .dropbtn{
+   font-size: 10px;
+   padding: 10px 12px;
+  }
+}
