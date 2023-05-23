@@ -205,8 +205,8 @@ footer p {
  }
 }
 @media (max-width:500px) {
-     header ul li a, .dropbtn{
-      font-size: 15px;
-      padding: 12px 14px;
-     }
+  header ul li a, .dropbtn{
+   font-size: 12px;
+   padding: 10px 12px;
+  }
 }
